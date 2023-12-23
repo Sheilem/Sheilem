@@ -16,6 +16,17 @@ Currently on a journey to unravel the mysteries of algorithms and build cool thi
 - 💻 Coding up projects ranging from algorithms to web applications
 - 📚 Learning and growing every day, one line of code at a time
 
+## Proficient languages
+
+- Java
+- C
+- C#
+- Assembler
+- Node.js
+- Express Framework
+- JavaScript
+
+
 ## Connect with Me
 
 - 📧 Email: [Gal@1997.co.il](Gal@1997.co.il)
