@@ -16,15 +16,17 @@ Currently on a journey to unravel the mysteries of algorithms and build cool thi
 - 💻 Coding up projects ranging from algorithms to web applications
 - 📚 Learning and growing every day, one line of code at a time
 
-## Proficient Languages
+## 💻 Technical Proficiency
 
-- Java
-- C
-- C#
-- Assembler
-- Node.js
-- Express Framework
-- JavaScript
+I'm proficient in the following programming languages and technologies:
+
+- ⚙️ Assembly Language
+- 🅾️ C
+- #️⃣ C#
+- ☕ Java
+- 🌐 Node.js
+- 🚀 Express.js Framework
+- 🟨 JavaScript
 
 
 ## Connect with Me
